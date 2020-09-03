@@ -1,3 +1,4 @@
+#writing string in python
 my_name = "Nawaraj"
 family_name = "Basnet"
 country = "Nepal"
