@@ -1,6 +1,6 @@
 #do the addition(+) subtraction(-) multiplication(*) modulus(%) division(/) exponential(**) floor division operator(//) operations
 a=40
-b=22
+b=21
 sum = a+b
 difference = a-b
 multiplication = a*b
