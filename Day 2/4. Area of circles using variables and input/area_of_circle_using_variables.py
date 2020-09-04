@@ -8,4 +8,4 @@ print(circum_of_circle)
 #Take radius as user input and calculate the area.
 radius_from_user_input = int( input('Enter the radius of the circle: ') )
 area_of_circle_by_user = 3.14 *radius_from_user_input**2
-print( 'The area of the user defined radius is {}'.format( area_of_circle_by_user ) )
+print( 'The area of the {} radius is {}'.format( radius_from_user_input,area_of_circle_by_user ) )
