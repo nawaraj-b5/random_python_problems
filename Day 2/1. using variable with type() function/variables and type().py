@@ -27,7 +27,7 @@ print( type(is_male) )
 print( type(is_student) )
 
 #Using the len() built-in function find the length of your first name
-print("The length of my first_name is {}" .format( len(first_name) ) )
+print("The length of my first_name is :",len(first_name)  )
 
 
 
