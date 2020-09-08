@@ -1,4 +1,4 @@
-#Write a function that takes a list of integers as a parameter and returns the sum of the list.
+#Write a function that takes a list of integers as a parameter and returns the sum of the list without using sum().
 
 def item_list(list_of_integer):
     result = 0
@@ -11,4 +11,3 @@ def item_list(list_of_integer):
 
 item_list([2,3,5,7,8,4,8,5])
 item_list([2,3,0,7,8,4,5])
-
