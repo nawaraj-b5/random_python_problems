@@ -8,7 +8,7 @@ def item_list(list_of_integer):
         result+=list_of_integer[i]
         i+=1
     print('The sum of the {} number in the list is {}'.format(length,result))
-    
+
 item_list([2,3,5,7,8,4,8,5])
 item_list([2,3,0,7,8,4,5])
 
